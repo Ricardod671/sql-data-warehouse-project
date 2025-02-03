@@ -112,7 +112,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Ricardo Félix Díaz López**, I am Petroleum engineer that love work will data, this a personal practice project, the original practice come from
+Hi there! I'm **Ricardo Félix Díaz López**, I am Petroleum engineer that love work with data, this a personal practice project, the original practice come from
 **Baraa Khatib Salkini**, also known as **Data With Baraa**. 
 
 
